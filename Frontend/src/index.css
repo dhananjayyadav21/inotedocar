@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+i{
+  cursor: pointer;
+}
+
+
+
+/* html body background*/
+body {
+  background: linear-gradient(to bottom, #f8fffe,#ddf970, #f8fffe);
+  height: 100vh; /* Set container to full viewport height */
+}
+
+/* notes background*/
+.addnote,.deleteacount-container,.userdetail-container {
+  background: linear-gradient(to bottom, #ffffff,#c7c7c7);
+}
+
+/* .noteitem {
+  background: linear-gradient(to bottom, #ffffff,#ffffff);
+} */
+
+/* authentication background*/
+.authentication {
+  background: linear-gradient(to bottom, #effffb,#5e5c5f, #e1fffc); 
+}
+
+/* editnote background */
+.editform {
+  background: linear-gradient(to bottom, #effffb,#5e5c5f, #e1fffc); 
+}
+
+.editformbg{
+  background: linear-gradient(to bottom, #f8fffe,#ddf970, #f8fffe);
+}
+
+/* delete acount and note background */
+.deleteacount,.deleteNote {
+  background: linear-gradient(to bottom, #effffb,#b6ffff, #e1fffc); 
+}
+
+
