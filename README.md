@@ -32,5 +32,5 @@ Authentication: JSON Web Tokens (JWT) or Salt
 Version Control: Git
 
 ## Demo
-[Link to Live Demo]https://inotedocar.netlify.app/
+[Link to Live Demo](https://inotedocar.netlify.app/)
 
