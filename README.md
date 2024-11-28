@@ -1,4 +1,4 @@
-# iNoteDocar Web Application
+to# iNoteDocar Web Application
 Welcome to iNoteDocar, a web application designed for secure and efficient management of Note with authentication features, CRUD (Create, Read, Update, Delete) operations, and a modern, user-friendly interface.
 
 # Features
@@ -25,10 +25,15 @@ Designed using the latest version of Bootstrap for cross-device compatibility.
 Seamless navigation with minimal learning curve.
 
 ## Technologies Used
+
 Frontend: React, Bootstrap
+
 Backend: Node.js / express / npm package 📦
+
 Database: MongoDB
+
 Authentication: JSON Web Tokens (JWT) or Salt
+
 Version Control: Git
 
 ## Demo
