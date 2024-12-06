@@ -43,7 +43,6 @@ Version Control: Git
 ![4](https://github.com/user-attachments/assets/dbb3ea8d-093c-4881-acc2-fbd9e677137c)
 ![5](https://github.com/user-attachments/assets/a23b30b2-20f9-4f1c-b5e9-c9200f70a2a1)
 ![6](https://github.com/user-attachments/assets/6b49c544-56a9-4206-96fd-3b60a7b3d598)
-![6](https://github.com/user-attachments/assets/91a76981-1b11-40bb-b3fe-0464f2489b18)
 ![8](https://github.com/user-attachments/assets/9d7bad93-a714-4dd8-98b1-8965b94a8403)
 ![9](https://github.com/user-attachments/assets/9de0d308-8030-42a7-98f9-b4835b85cd9b)
 
