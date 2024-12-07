@@ -1,4 +1,4 @@
-to# iNoteDocar Web Application
+# iNoteDocar Web Application
 Welcome to iNoteDocar, a web application designed for secure and efficient management of Note with authentication features, CRUD (Create, Read, Update, Delete) operations, and a modern, user-friendly interface.
 
 # Features
